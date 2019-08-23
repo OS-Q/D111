@@ -1,7 +1,7 @@
 {
-  "name": "WebServer",
+  "name": "Webs",
   "keywords": "WebServer, HTTP",
-  "description": "HTTP GET and POST requests, provides argument parsing, handles one client at a time",
+  "description": "Webs",
   "version": "1.0.0",
   "authors": {
     "name":  "qitas",
@@ -10,8 +10,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/OS-Q/D106.git"
+    "url": "https://github.com/OS-Q/D111.git"
   },
   "frameworks": "arduino",
-  "platforms": "*"
+  "platforms": "espressif,esp8266,esp32"
 }
